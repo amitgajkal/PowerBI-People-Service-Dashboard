@@ -70,7 +70,7 @@
   <img align="center" width="700" src="https://github.com/amitgajkal/PowerBI-People-Service-Dashboard/blob/main/Resources/6%20employee%20profile.png"/>
 
 
-Click [here]([https://www.novypro.com/project/people-service-dashboard-hr-analytics-power-bi](https://app.powerbi.com/view?r=eyJrIjoiMjIxMzA4NmUtMTg1Zi00M2M0LWEyMzEtY2JmYmE1YjdmMzgxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)https://app.powerbi.com/view?r=eyJrIjoiMjIxMzA4NmUtMTg1Zi00M2M0LWEyMzEtY2JmYmE1YjdmMzgxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) for interactive report
+Click [here](https://app.powerbi.com/view?r=eyJrIjoiMjIxMzA4NmUtMTg1Zi00M2M0LWEyMzEtY2JmYmE1YjdmMzgxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) for interactive report
 
 
 
