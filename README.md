@@ -1,5 +1,6 @@
 # HR Analytics
 ***
+- This is an Enterprise HR dashboard includes different attributes of HR function such as total monthly headcounts, employee turnover (monthly, yearly), Termination analysis, Training, Recruitment, Performance, Detailed Employee Profile, etc.
 - Leveraged the latest functionalities such as card visuals and slicers to enhance data visualization and interactivity within Power BI dashboards.
 - Used figma to create the visually appealing dashboard background and used the same
 - Leveraged **dynamic data labels** in Power BI for enhanced interactivity and dynamic data exploration, empowering informed decision-making.
